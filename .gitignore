@@ -1,0 +1,42 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output folders
+out/
+bin/
+build/
+target/
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# VS Code (if you ever open the folder)
+.vscode/
+
+# Java archive outputs (optional — remove if you want to commit them)
+*.jar
+*.war
+*.ear
+
+# IntelliJ local history
+.idea/**/localHistory/
+
+# Environment files (rare for design-patterns but safe)
+.env
+*.env

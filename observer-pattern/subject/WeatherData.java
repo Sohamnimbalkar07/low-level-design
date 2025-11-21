@@ -2,9 +2,10 @@ package subject;
 
 import observer.Observer;
 import java.util.ArrayList;
+import java.util.List;
 
 public class WeatherData implements Subject {
-    private ArrayList observers;
+    private List<Observer> observers;
     private float temperature;
     private float humidity;
     private float pressure;
