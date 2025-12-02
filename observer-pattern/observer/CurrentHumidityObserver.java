@@ -7,7 +7,6 @@ public class CurrentHumidityObserver implements Observer, DisplayElement {
     private Subject sub;
     private float humidity;
 
-
     public CurrentHumidityObserver(Subject sub) {
         this.sub = sub;
         sub.registerObserver(this);
