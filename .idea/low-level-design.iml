@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/observer-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/strategy-pattern" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/decorator-pattern/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/simple-factory-pattern/java" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
