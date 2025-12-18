@@ -11,6 +11,7 @@ public class SingletonClass {
             synchronized (SingletonClass.class) {
                 if (instance == null) {
                     instance = new SingletonClass();
+
                 }
             }
         }
